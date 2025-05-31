@@ -139,12 +139,10 @@ python train_wavelldm.py \
 ✔ Perancangan Arsitektur U-Net  
 ✔ Training Cycle  
 ✔ Loss Functions, Dataset, Data Loader, dan modul pendukung lainnya  
-
-## ⏳ **To-Do List**
-❌ Melatih U-Net untuk DDPM/DDIM  
-❌ Pengujian end-to-end  
-❌ Implementasi kode inferensi  
-❌ Implementasi UI dengan **Gradio**  
+✔ Melatih U-Net untuk DDPM 
+✔ Pengujian end-to-end  
+✔ Implementasi kode inferensi  
+✔ Implementasi UI dengan **Gradio**  
 
 ## 📌 **Rencana Implementasi**
 Setelah model difusi selesai, WaveLLDM akan diimplementasikan dalam:
